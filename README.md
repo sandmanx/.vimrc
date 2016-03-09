@@ -9,6 +9,7 @@ Here are the step by step instructions:
 3.This .vimrc may be a new file you create or an old file you will edit. What you have to do is enter the insert mode and then type in the following lines:
 
 set tabstop=8
+
 set smartindent
 
 4.Now go to the command mode and save the file.
