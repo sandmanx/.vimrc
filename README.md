@@ -21,7 +21,7 @@ set mouse=a
 and you are done.
 
 
-One of the best .vimrc settings I have used is by our own senior Anmol Jagetia sir. Here is the link to his profile and files. https://github.com/anmoljagetia/dotfiles/blob/master/vim/vimrc 
+One of the best .vimrc settings I have used is by our own senior Anmol Jagetia sir. Click on me([@anmoljagetia](https://github.com/anmoljagetia/dotfiles/blob/master/vim/vimrc)) to check out his other cool stuff and his profile. 
 
 Thanks for reading and I hope I could be of any help to you :)
 
