@@ -1,4 +1,4 @@
-#Setting Indentation in VIM editor
+##Setting Indentation in VIM editor
 
 We all use some kind of text editor for writing our codes. But during our lab test in most of the colleges including ours we have to use the virtual console on a linux system. Now if you have vi editor then sorry I can't help you. Your life is fucked. No one can help you, not even God, even if he/she wanted to. But if your lucky stars are shining and you have VIM editor installed on your system then I have some good news for you :). With a little edit in a file you can easily set up a user friendly and more clean coding environment for yourself. 
 
