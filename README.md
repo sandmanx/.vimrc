@@ -1,4 +1,4 @@
-##Setting Indentation in VIM editor
+## Setting Indentation in VIM editor
 
 We all use some kind of text editor for writing our codes. But during our lab test in most of the colleges including ours we have to use the virtual console on a linux system. Now if you have vi editor then sorry I can't help you. Your life is fucked. No one can help you, not even God, even if he/she wanted to. But if your lucky stars are shining and you have VIM editor installed on your system then I have some good news for you :). With a little edit in a file you can easily set up a user friendly and more clean coding environment for yourself. 
 
@@ -21,8 +21,6 @@ set mouse=a
 and you are done.
 
 
-One of the best .vimrc settings I have used is by our own senior Anmol Jagetia sir.[Click on me](https://github.com/anmoljagetia/dotfiles/blob/master/vim/vimrc) to check out his other cool stuff and his profile. 
+One of the best .vimrc settings I have used is by our own senior Anmol Jagetia sir.[Click here](https://github.com/anmoljagetia/dotfiles/blob/master/vim/vimrc) to check out his other cool stuff and his profile. 
 
 Thanks for reading and I hope I could be of any help to you :)
-
-P.S. Sorry for posting this on github, I was too lazy to setup a blog for this.
